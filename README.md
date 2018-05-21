@@ -1,9 +1,3 @@
-# Dependencies
+# Timber Samples
 
-```
-	"timber_dev": "file:../timber-node"
-```
-
-```
-	"timber": "^3.1.3",
-```
+These are some timber use-cases created while maintaining timber-node

@@ -1,5 +1,5 @@
 const express = require('express')
-const timber = require('../timber_node/dist')
+const timber = require('../../../timber_node/dist')
 
 const app = express()
 
